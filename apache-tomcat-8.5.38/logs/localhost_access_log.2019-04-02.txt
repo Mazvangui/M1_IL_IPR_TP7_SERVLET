@@ -1,0 +1,12 @@
+127.0.0.1 - - [02/Apr/2019:14:53:13 +0200] "GET /pr.tp.services/api/messages HTTP/1.1" 404 1029
+127.0.0.1 - - [02/Apr/2019:14:53:14 +0200] "GET / HTTP/1.1" 200 11286
+127.0.0.1 - - [02/Apr/2019:14:53:14 +0200] "GET /RestExample/WEB-INF/classes/fr/istic/rest/MessageResource.java HTTP/1.1" 404 967
+127.0.0.1 - - [02/Apr/2019:14:54:26 +0200] "GET /pr.tp.services/rest/messages HTTP/1.1" 404 1030
+127.0.0.1 - - [02/Apr/2019:14:55:11 +0200] "GET /RestExample/rest/messages HTTP/1.1" 405 1059
+127.0.0.1 - - [02/Apr/2019:14:55:21 +0200] "GET /RestExample/rest/messages HTTP/1.1" 405 1059
+127.0.0.1 - - [02/Apr/2019:14:56:05 +0200] "GET /RestExample/rest/messages HTTP/1.1" 500 8365
+127.0.0.1 - - [02/Apr/2019:14:56:05 +0200] "GET / HTTP/1.1" 200 11286
+127.0.0.1 - - [02/Apr/2019:14:56:06 +0200] "GET /RestExample/WEB-INF/classes/fr/istic/rest/MessageResource.java HTTP/1.1" 404 967
+127.0.0.1 - - [02/Apr/2019:14:56:41 +0200] "GET / HTTP/1.1" 200 11286
+127.0.0.1 - - [02/Apr/2019:14:56:42 +0200] "GET /RestExample/WEB-INF/classes/fr/istic/rest/MessageResource.java HTTP/1.1" 404 967
+127.0.0.1 - - [02/Apr/2019:14:56:42 +0200] "GET /RestExample/rest/messages HTTP/1.1" 200 212
