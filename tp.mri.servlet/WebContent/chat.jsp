@@ -4,12 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Chat</title>
 </head>
 <body>
-	<h1>
-		<%= request.getAttribute("logger") %>
-	</h1>
 	<pre>
     	<%= request.getAttribute("content") %>
 	</pre>
@@ -17,6 +14,7 @@
 		<input type="text" name="ligne" value=""/>
 		<input type="submit" name="action" value="submit"/>
 		<input type="submit" name="action" value="refresh"/>
+		<input type="submit" name="action" value="logOut"/>
 	</form>
 </body>
 </html>
